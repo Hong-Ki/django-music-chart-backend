@@ -1,0 +1,11 @@
+#vscode config
+/.vscode
+
+#url config
+/charts/config.py
+
+#lite db
+*.sqlite3
+
+#pycache
+*/__pycache__/
